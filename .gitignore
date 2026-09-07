@@ -1,0 +1,9 @@
+runtime/
+models/
+.venv/
+__pycache__/
+*.pyc
+logs/
+debug_img/
+beast_rally_config.json
+*.zip
