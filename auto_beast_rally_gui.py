@@ -64,9 +64,9 @@ DEFAULT_CONFIG = {
     "beast_level_min": 6,
     "beast_level_max": 8,
     "regions": {
-        "march_count": {"rx1": 575, "ry1": 110, "rx2": 690, "ry2": 155},
+        "march_count": {"rx1": 198, "ry1": 270, "rx2": 280, "ry2": 316},
         "march_cost": {"rx1": 320, "ry1": 1115, "rx2": 460, "ry2": 1160},
-        "marching_check": {"rx1": 15, "ry1": 155, "rx2": 260, "ry2": 380},
+        "marching_check": {"rx1": 38, "ry1": 270, "rx2": 132, "ry2": 316},
         "march_time": {"rx1": 285, "ry1": 1210, "rx2": 500, "ry2": 1260},
         "beast_level": {"rx1": 275, "ry1": 1040, "rx2": 500, "ry2": 1100},
     },
